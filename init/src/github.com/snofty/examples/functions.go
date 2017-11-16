@@ -32,7 +32,7 @@ func main(){
   fmt.Println(nextEvent())
   fmt.Println(nextEvent())
   fmt.Println(nextEvent())
-
+  
   fmt.Println("Enter a integer value to find fib")
   fmt.Scanf("%d",&input)
   fmt.Printf("%s%d","Fib is ",fib(input))
